@@ -1,0 +1,4 @@
+JDBCurl=jdbc:mysql://localhost:3306/news
+JDBCuser=root
+JDBCpassWord=whd
+
