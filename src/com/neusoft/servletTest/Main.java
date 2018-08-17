@@ -13,6 +13,7 @@ public class Main {
         List<UserBean> list = new ArrayList<>();
         for (UserBean user : list){
             user.getSqlSex();
+            System.out.println("");
         }
 
     }
